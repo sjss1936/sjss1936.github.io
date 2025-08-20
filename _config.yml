@@ -22,7 +22,7 @@ repository               : "sjss1936/sjss1936.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "손재성"
   pronouns         : # example: "she/her"  
   bio              : "유원대학교 4학년 AI소프트웨어학과 학생입니다."
