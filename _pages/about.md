@@ -34,43 +34,6 @@ AI, 소프트웨어 개발, 데이터 처리 등을 중심으로 학습하며 **
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-<div align="center">
-<a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50"/></a>
-<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50"/></a>
-</div>  
-
-### ⚙️ Backend & APIs
-<div align="center">
-<a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/></a>
-<a href="https://www.java.com/"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/></a>
-</div>
-
-### 🗄 Databases
-<div align="center">
-<a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/></a>
-<a href="https://www.oracle.com/"><img src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" height="50"/></a>
-</div>
-
-### ☁️ DevOps / Infra / Tools
-<div align="center">
-<a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50"/></a>
-</div>
-
----
-
-## 📊 GitHub Stats & Streak
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjss1936&show_icons=true&count_private=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjss1936&hide_border=true&theme=default" height="160"/>
-</div>
-
----
-
 ## 🔗 Links
 
 - [Notion 포트폴리오] (준비 중)  
